@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "8483RZD2XX.com.base.Out",
-                "paths":[ "*" ]
+                "paths":[ "*", "/" ]
             }
         ]
     }
