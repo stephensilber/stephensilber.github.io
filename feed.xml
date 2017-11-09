@@ -1,0 +1,1035 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<!--  generator="Podcast Generator 2.6"  -->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<channel>
+<title>Progress & Poverty</title>
+<link>http://silber.io/pap/</link>
+<atom:link href="http://localhost/feed.xml" rel="self" type="application/rss+xml"/>
+<description>
+Audiobook produced and released by Henry George School of Chicago https://hgchicago.org/links/progress-poverty-audiobook/
+</description>
+<generator>
+Podcast Generator 2.6 - http://podcastgen.sourceforge.net
+</generator>
+<lastBuildDate>Thu, 09 Nov 2017 06:38:37 +0100</lastBuildDate>
+<language>en</language>
+<copyright>--</copyright>
+<itunes:image href="http://localhost/images/itunes_image.jpg"/>
+<image>
+<url>http://silber.io/pap/images/itunes_image.jpg</url>
+<title>Progress & Poverty</title>
+<link>http://silber.io/pap/</link>
+</image>
+<itunes:summary>
+Audiobook produced and released by Henry George School of Chicago https://hgchicago.org/links/progress-poverty-audiobook/
+</itunes:summary>
+<itunes:subtitle>Progress & Poverty Audiobook</itunes:subtitle>
+<itunes:author>Henry George</itunes:author>
+<itunes:owner>
+<itunes:name>Henry George</itunes:name>
+<itunes:email>stephensilber@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:category text="Arts"/>
+<item>
+<title>P&P01b – Title Page b</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+Progres and Povery - Title Page
+</link>
+<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P&P01_Title_Page.mp3" length="382955" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp01_title_page.mp3
+</guid>
+<itunes:duration>0:48</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P33 – Chapter 28</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp33_chapter_28.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp33_chapter_28.mp3" length="5533669" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp33_chapter_28.mp3
+</guid>
+<itunes:duration>11:31</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P37 – Chapter 32</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp37_chapter_32.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp37_chapter_32.mp3" length="3035945" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp37_chapter_32.mp3
+</guid>
+<itunes:duration>6:19</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P36 – Eighth Part, Chapter 31</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp36_eighth_part_chapter_31.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp36_eighth_part_chapter_31.mp3" length="4104693" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp36_eighth_part_chapter_31.mp3
+</guid>
+<itunes:duration>8:33</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P35 – Chapter 30</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp35_chapter_30.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp35_chapter_30.mp3" length="8485088" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp35_chapter_30.mp3
+</guid>
+<itunes:duration>17:40</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P34 – Chapter 29</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp34_chapter_29.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp34_chapter_29.mp3" length="9363012" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp34_chapter_29.mp3
+</guid>
+<itunes:duration>19:30</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P32 – Chapter 27</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp32_chapter_27.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp32_chapter_27.mp3" length="6411384" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp32_chapter_27.mp3
+</guid>
+<itunes:duration>13:21</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P31 – Seventh Part, Chapter 26</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp31_seventh_part_chapter_26.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp31_seventh_part_chapter_26.mp3" length="11461613" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp31_seventh_part_chapter_26.mp3
+</guid>
+<itunes:duration>23:52</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P30 – Chapter 25</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp30_chapter_25.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp30_chapter_25.mp3" length="1740899" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp30_chapter_25.mp3
+</guid>
+<itunes:duration>3:37</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P29 – Sixth Part, Chapter 24</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp29_sixth_part_chapter_24.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp29_sixth_part_chapter_24.mp3" length="16918484" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp29_sixth_part_chapter_24.mp3
+</guid>
+<itunes:duration>35:15</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P28 – Chapter 23</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp28_chapter_23.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp28_chapter_23.mp3" length="9806675" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp28_chapter_23.mp3
+</guid>
+<itunes:duration>20:26</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P38 – Chapter 33</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp38_chapter_33.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp38_chapter_33.mp3" length="11065986" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp38_chapter_33.mp3
+</guid>
+<itunes:duration>23:03</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P39 – Chapter 34</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp39_chapter_34.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp39_chapter_34.mp3" length="6232706" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp39_chapter_34.mp3
+</guid>
+<itunes:duration>12:59</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P50 – Afterword</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp50_afterword.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp50_afterword.mp3" length="7120868" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp50_afterword.mp3
+</guid>
+<itunes:duration>14:50</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P49 – Chapter 44</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp49_chapter_44.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp49_chapter_44.mp3" length="5287700" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp49_chapter_44.mp3
+</guid>
+<itunes:duration>11:01</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P48 – Chapter 43</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp48_chapter_43.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp48_chapter_43.mp3" length="6176284" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp48_chapter_43.mp3
+</guid>
+<itunes:duration>12:52</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P47 – Chapter 42</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp47_chapter_42.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp47_chapter_42.mp3" length="11474959" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp47_chapter_42.mp3
+</guid>
+<itunes:duration>23:54</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P46 – Chapter 41</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp46_chapter_41.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp46_chapter_41.mp3" length="14793556" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp46_chapter_41.mp3
+</guid>
+<itunes:duration>30:49</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P45 – Chapter 40</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp45_chapter_40.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp45_chapter_40.mp3" length="5755397" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp45_chapter_40.mp3
+</guid>
+<itunes:duration>11:59</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P44 – Tenth Part, Chapter 39</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp44_tenth_part_chapter_39.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp44_tenth_part_chapter_39.mp3" length="7358921" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp44_tenth_part_chapter_39.mp3
+</guid>
+<itunes:duration>15:20</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P43 – Chapter 38</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp43_chapter_38.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp43_chapter_38.mp3" length="9202933" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp43_chapter_38.mp3
+</guid>
+<itunes:duration>19:10</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P42 – Chapter 37</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp42_chapter_37.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp42_chapter_37.mp3" length="3603743" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp42_chapter_37.mp3
+</guid>
+<itunes:duration>7:30</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P41 – Chapter 36</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp41_chapter_36.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp41_chapter_36.mp3" length="3671034" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp41_chapter_36.mp3
+</guid>
+<itunes:duration>7:39</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P40 – Ninth Part, Chapter 35</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp40_ninth_part_chapter_35.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp40_ninth_part_chapter_35.mp3" length="4364244" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp40_ninth_part_chapter_35.mp3
+</guid>
+<itunes:duration>9:05</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P27 – Fifth Part, Chapter 22</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp27_fifth_part_chapter_22.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp27_fifth_part_chapter_22.mp3" length="10813981" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp27_fifth_part_chapter_22.mp3
+</guid>
+<itunes:duration>22:31</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P26 – Chapter 21</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp26_chapter_21.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp26_chapter_21.mp3" length="3204383" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp26_chapter_21.mp3
+</guid>
+<itunes:duration>6:40</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P12 – Chapter 07</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp12_chapter_07.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp12_chapter_07.mp3" length="11978182" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp12_chapter_07.mp3
+</guid>
+<itunes:duration>24:57</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P11 – Second Part, Chapter 06</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp11_second_part_chapter_06.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp11_second_part_chapter_06.mp3" length="5634424" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp11_second_part_chapter_06.mp3
+</guid>
+<itunes:duration>11:44</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P10 – Chapter 05</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp10_chapter_05.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp10_chapter_05.mp3" length="4783224" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp10_chapter_05.mp3
+</guid>
+<itunes:duration>9:58</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P09 – Chapter 04</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp09_chapter_04.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp09_chapter_04.mp3" length="4690646" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp09_chapter_04.mp3
+</guid>
+<itunes:duration>9:46</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P08 – Chapter 03</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp08_chapter_03.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp08_chapter_03.mp3" length="12697699" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp08_chapter_03.mp3
+</guid>
+<itunes:duration>26:27</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P07 – Chapter 02</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp07_chapter_02.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp07_chapter_02.mp3" length="11103394" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp07_chapter_02.mp3
+</guid>
+<itunes:duration>23:08</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P13 – Chapter 08</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp13_chapter_08.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp13_chapter_08.mp3" length="5593229" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp13_chapter_08.mp3
+</guid>
+<itunes:duration>11:39</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P06 – First Part, Chapter 01</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp06_first_part_chapter_01.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp06_first_part_chapter_01.mp3" length="8894294" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp06_first_part_chapter_01.mp3
+</guid>
+<itunes:duration>18:32</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P05 – Introduction</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp05_introduction.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp05_introduction.mp3" length="6149745" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp05_introduction.mp3
+</guid>
+<itunes:duration>12:48</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P04 – Author’s Preface</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp04_authors_preface.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp04_authors_preface.mp3" length="5172565" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp04_authors_preface.mp3
+</guid>
+<itunes:duration>10:46</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P03 – Editor’s Preface</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp03_editors_preface.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp03_editors_preface.mp3" length="3007954" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp03_editors_preface.mp3
+</guid>
+<itunes:duration>6:16</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P02 – Publisher’s Foreword</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp02_publishers_foreword.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp02_publishers_foreword.mp3" length="2703479" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp02_publishers_foreword.mp3
+</guid>
+<itunes:duration>5:38</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P20 – Chapter 15</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp20_chapter_15.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp20_chapter_15.mp3" length="9131044" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp20_chapter_15.mp3
+</guid>
+<itunes:duration>19:01</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P25 – Chapter 20</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp25_chapter_20.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp25_chapter_20.mp3" length="4997010" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp25_chapter_20.mp3
+</guid>
+<itunes:duration>10:24</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P24 – Chapter 19</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp24_chapter_19.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp24_chapter_19.mp3" length="9765297" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp24_chapter_19.mp3
+</guid>
+<itunes:duration>20:20</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P23 – Fourth Part, Chapter 18</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp23_fourth_part_chapter_18.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp23_fourth_part_chapter_18.mp3" length="1157036" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp23_fourth_part_chapter_18.mp3
+</guid>
+<itunes:duration>2:24</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P22 – Chapter 17</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp22_chapter_17.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp22_chapter_17.mp3" length="2951100" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp22_chapter_17.mp3
+</guid>
+<itunes:duration>6:09</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P21 – Chapter 16</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp21_chapter_16.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp21_chapter_16.mp3" length="1983315" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp21_chapter_16.mp3
+</guid>
+<itunes:duration>4:08</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P14 – Chapter 09</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp14_chapter_09.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp14_chapter_09.mp3" length="7769333" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp14_chapter_09.mp3
+</guid>
+<itunes:duration>16:11</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P19 – Chapter 14</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp19_chapter_14.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp19_chapter_14.mp3" length="5068690" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp19_chapter_14.mp3
+</guid>
+<itunes:duration>10:33</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P18 – Chapter 13</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp18_chapter_13.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp18_chapter_13.mp3" length="4039674" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp18_chapter_13.mp3
+</guid>
+<itunes:duration>8:25</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P17 – Chapter 12</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp17_chapter_12.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp17_chapter_12.mp3" length="6744288" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp17_chapter_12.mp3
+</guid>
+<itunes:duration>14:03</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P16 – Chapter 11</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp16_chapter_11.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp16_chapter_11.mp3" length="5768772" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp16_chapter_11.mp3
+</guid>
+<itunes:duration>12:01</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+<item>
+<title>P&P15 – Third Part Chapter 10</title>
+<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ ]]>
+</itunes:summary>
+<description>Henry George (Read by Bob Drake)</description>
+<link>
+http://localhost/?name=2017-11-09_pp15_third_part_chapter_10.mp3
+</link>
+<enclosure url="http://localhost/media/2017-11-09_pp15_third_part_chapter_10.mp3" length="7685136" type="audio/mpeg"/>
+<guid>
+http://localhost/?name=2017-11-09_pp15_third_part_chapter_10.mp3
+</guid>
+<itunes:duration>16:00</itunes:duration>
+<author>stephensilber@gmail.com (Henry George)</author>
+<itunes:author>Henry George</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+</channel>
+</rss>
