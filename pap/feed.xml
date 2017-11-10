@@ -3,7 +3,7 @@
 <channel>
 <title>Progress &#038; Poverty</title>
 <link>http://hgchicago.org/links/progress-poverty-audiobook/</link>
-<atom:link href="http://silber.io/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="http://silber.io/pap/feed.xml" rel="self" type="application/rss+xml"/>
 <description>
 Audiobook produced and released by Henry George School of Chicago http://hgchicago.org/links/progress-poverty-audiobook/
 </description>
@@ -13,9 +13,9 @@ Podcast Generator 2.6 - http://podcastgen.sourceforge.net
 <lastBuildDate>Thu, 09 Nov 2017 06:38:37 +0100</lastBuildDate>
 <language>en</language>
 <copyright>--</copyright>
-<itunes:image href="https://images-na.ssl-images-amazon.com/images/I/51495GzK08L._SX309_BO1,204,203,200_.jpg"/>
+<itunes:image href="http://i2.wp.com/progressandpoverty.org/files/wp-content/uploads/2009/08/PP-cover-web.jpg"/>
 <image>
-<url>http://images-na.ssl-images-amazon.com/images/I/51495GzK08L._SX309_BO1,204,203,200_.jpg</url>
+<url>http://i2.wp.com/progressandpoverty.org/files/wp-content/uploads/2009/08/PP-cover-web.jpg</url>
 <title>Progress &#038; Poverty</title>
 <link>http://hgchicago.org/links/progress-poverty-audiobook/</link>
 </image>
@@ -32,279 +32,6 @@ Audiobook produced and released by Henry George School of Chicago http://hgchica
 <itunes:category text="Arts"/>
 
 <item>
-<title>01 - Title Page</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-http://hgchicago.org/wp-content/uploads/2011/09/P%26P01_Title_Page.mp3
-</link>
-<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P01_Title_Page.mp3" length="382955" type="audio/mpeg"/>
-<guid>
-http://hgchicago.org/wp-content/uploads/2011/09/P%26P01_Title_Page.mp3
-</guid>
-<itunes:duration>0:48</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>33 - Chapter 28</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P33_Chapter_28.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P33_Chapter_28.mp3" length="5533669" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P33_Chapter_28.mp3
-</guid>
-<itunes:duration>11:31</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>37 - Chapter 32</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P37_Chapter_32.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P37_Chapter_32.mp3" length="3035945" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P37_Chapter_32.mp3
-</guid>
-<itunes:duration>6:19</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>36 - Chapter 31</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P36_Eighth_Part_Chapter_31.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P36_Eighth_Part_Chapter_31.mp3" length="4104693" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P36_Eighth_Part_Chapter_31.mp3
-</guid>
-<itunes:duration>8:33</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>35 - Chapter 30</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P35_Chapter_30.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P35_Chapter_30.mp3" length="8485088" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P35_Chapter_30.mp3
-</guid>
-<itunes:duration>17:40</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>34 - Chapter 29</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P34_Chapter_29.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P34_Chapter_29.mp3" length="9363012" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P34_Chapter_29.mp3
-</guid>
-<itunes:duration>19:30</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>32 - Chapter 27</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P32_Chapter_27.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P32_Chapter_27.mp3" length="6411384" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P32_Chapter_27.mp3
-</guid>
-<itunes:duration>13:21</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>31 - Seventh Part, Chapter 26</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P31_Seventh_Part_Chapter_26.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P31_Seventh_Part_Chapter_26.mp3" length="11461613" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P31_Seventh_Part_Chapter_26.mp3
-</guid>
-<itunes:duration>23:52</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>30 - Chapter 25</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P30_Chapter_25.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P30_Chapter_25.mp3" length="1740899" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P30_Chapter_25.mp3
-</guid>
-<itunes:duration>3:37</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>29 - Sixth Part, Chapter 24</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P29_Sixth_Part_Chapter_24.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P29_Sixth_Part_Chapter_24.mp3" length="16918484" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P29_Sixth_Part_Chapter_24.mp3
-</guid>
-<itunes:duration>35:15</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>28 - Chapter 23</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P28_Chapter_23.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P28_Chapter_23.mp3" length="9806675" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P28_Chapter_23.mp3
-</guid>
-<itunes:duration>20:26</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>38 - Chapter 33</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P38_Chapter_33.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P38_Chapter_33.mp3" length="11065986" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P38_Chapter_33.mp3
-</guid>
-<itunes:duration>23:03</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>39 - Chapter 34</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3" length="6232706" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3
-</guid>
-<itunes:duration>12:59</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
 <title>50 - Afterword</title>
 <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
 <itunes:summary>
@@ -312,17 +39,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3" length="7120868" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3" length="7120868" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3
 </guid>
 <itunes:duration>14:50</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:49:05 +0100</pubDate>
 </item>
 
 <item>
@@ -333,17 +60,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P50_Afterword.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3" length="5287700" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3" length="5287700" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3
 </guid>
 <itunes:duration>11:01</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:48:05 +0100</pubDate>
 </item>
 
 <item>
@@ -354,17 +81,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P49_Chapter_44.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3" length="6176284" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3" length="6176284" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3
 </guid>
 <itunes:duration>12:52</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:47:05 +0100</pubDate>
 </item>
 
 <item>
@@ -375,17 +102,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P48_Chapter_43.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3" length="11474959" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3" length="11474959" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3
 </guid>
 <itunes:duration>23:54</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:46:05 +0100</pubDate>
 </item>
 
 <item>
@@ -396,17 +123,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P47_Chapter_42.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3" length="14793556" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3" length="14793556" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3
 </guid>
 <itunes:duration>30:49</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:45:05 +0100</pubDate>
 </item>
 
 <item>
@@ -417,17 +144,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P46_Chapter_41.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3" length="5755397" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3" length="5755397" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3
 </guid>
 <itunes:duration>11:59</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:44:05 +0100</pubDate>
 </item>
 
 <item>
@@ -438,17 +165,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P45_Chapter_40.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.mp3" length="7358921" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.mp3" length="7358921" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.mp3
 </guid>
 <itunes:duration>15:20</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:43:05 +0100</pubDate>
 </item>
 
 <item>
@@ -459,17 +186,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P44_Tenth_Part_Chapter_39.m
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3" length="9202933" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3" length="9202933" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3
 </guid>
 <itunes:duration>19:10</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:42:05 +0100</pubDate>
 </item>
 
 <item>
@@ -480,17 +207,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P43_Chapter_38.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3" length="3603743" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3" length="3603743" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3
 </guid>
 <itunes:duration>7:30</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:41:05 +0100</pubDate>
 </item>
 
 <item>
@@ -501,17 +228,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P42_Chapter_37.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3" length="3671034" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3" length="3671034" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3
 </guid>
 <itunes:duration>7:39</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:40:05 +0100</pubDate>
 </item>
 
 <item>
@@ -522,17 +249,269 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P41_Chapter_36.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.mp3" length="4364244" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.mp3" length="4364244" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.mp3
 </guid>
 <itunes:duration>9:05</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:39:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>39 - Chapter 34</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3" length="6232706" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P39_Chapter_34.mp3
+    </guid>
+    <itunes:duration>12:59</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:38:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>38 - Chapter 33</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P38_Chapter_33.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P38_Chapter_33.mp3" length="11065986" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P38_Chapter_33.mp3
+    </guid>
+    <itunes:duration>23:03</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:37:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>37 - Chapter 32</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P37_Chapter_32.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P37_Chapter_32.mp3" length="3035945" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P37_Chapter_32.mp3
+    </guid>
+    <itunes:duration>6:19</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:36:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>36 - Chapter 31</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P36_Eighth_Part_Chapter_31.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P36_Eighth_Part_Chapter_31.mp3" length="4104693" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P36_Eighth_Part_Chapter_31.mp3
+    </guid>
+    <itunes:duration>8:33</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>35 - Chapter 30</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P35_Chapter_30.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P35_Chapter_30.mp3" length="8485088" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P35_Chapter_30.mp3
+    </guid>
+    <itunes:duration>17:40</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:34:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>34 - Chapter 29</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P34_Chapter_29.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P34_Chapter_29.mp3" length="9363012" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P34_Chapter_29.mp3
+    </guid>
+    <itunes:duration>19:30</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:33:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>33 - Chapter 28</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P33_Chapter_28.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P33_Chapter_28.mp3" length="5533669" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P33_Chapter_28.mp3
+    </guid>
+    <itunes:duration>11:31</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:32:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>32 - Chapter 27</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P32_Chapter_27.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P32_Chapter_27.mp3" length="6411384" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P32_Chapter_27.mp3
+    </guid>
+    <itunes:duration>13:21</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:31:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>31 - Seventh Part, Chapter 26</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P31_Seventh_Part_Chapter_26.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P31_Seventh_Part_Chapter_26.mp3" length="11461613" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P31_Seventh_Part_Chapter_26.mp3
+    </guid>
+    <itunes:duration>23:52</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:30:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>30 - Chapter 25</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P30_Chapter_25.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P30_Chapter_25.mp3" length="1740899" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P30_Chapter_25.mp3
+    </guid>
+    <itunes:duration>3:37</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:29:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>29 - Sixth Part, Chapter 24</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P29_Sixth_Part_Chapter_24.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P29_Sixth_Part_Chapter_24.mp3" length="16918484" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P29_Sixth_Part_Chapter_24.mp3
+    </guid>
+    <itunes:duration>35:15</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:28:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>28 - Chapter 23</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P28_Chapter_23.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P28_Chapter_23.mp3" length="9806675" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P28_Chapter_23.mp3
+    </guid>
+    <itunes:duration>20:26</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:27:05 +0100</pubDate>
 </item>
 
 <item>
@@ -543,17 +522,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P40_Ninth_Part_Chapter_35.m
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.mp3" length="10813981" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.mp3" length="10813981" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.mp3
 </guid>
 <itunes:duration>22:31</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:26:05 +0100</pubDate>
 </item>
 
 <item>
@@ -564,292 +543,19 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P27_Fifth_Part_Chapter_22.m
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P26_Chapter_21.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P26_Chapter_21.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P26_Chapter_21.mp3" length="3204383" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P26_Chapter_21.mp3" length="3204383" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P26_Chapter_21.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P26_Chapter_21.mp3
 </guid>
 <itunes:duration>6:40</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:25:05 +0100</pubDate>
 </item>
 
-<item>
-<title>12 - Chapter 07</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P12_Chapter_07.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P12_Chapter_07.mp3" length="11978182" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P12_Chapter_07.mp3
-</guid>
-<itunes:duration>24:57</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>11 - Second Part, Chapter 06</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P11_Second_Part_Chapter_06.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P11_Second_Part_Chapter_06.mp3" length="5634424" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P11_Second_Part_Chapter_06.mp3
-</guid>
-<itunes:duration>11:44</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>10 - Chapter 05</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P10_Chapter_05.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P10_Chapter_05.mp3" length="4783224" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P10_Chapter_05.mp3
-</guid>
-<itunes:duration>9:58</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>9 - Chapter 04</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P09_Chapter_04.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P09_Chapter_04.mp3" length="4690646" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P09_Chapter_04.mp3
-</guid>
-<itunes:duration>9:46</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>8 - Chapter 03</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P08_Chapter_03.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P08_Chapter_03.mp3" length="12697699" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P08_Chapter_03.mp3
-</guid>
-<itunes:duration>26:27</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>7 - Chapter 02</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P07_Chapter_02.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P07_Chapter_02.mp3" length="11103394" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P07_Chapter_02.mp3
-</guid>
-<itunes:duration>23:08</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>13 - Chapter 08</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P13_Chapter_08.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P13_Chapter_08.mp3" length="5593229" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P13_Chapter_08.mp3
-</guid>
-<itunes:duration>11:39</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>6 - First Part, Chapter 01</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P06_First_Part_Chapter_01.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P06_First_Part_Chapter_01.mp3" length="8894294" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P06_First_Part_Chapter_01.mp3
-</guid>
-<itunes:duration>18:32</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>5 - Introduction</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P05_Introduction.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P05_Introduction.mp3" length="6149745" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P05_Introduction.mp3
-</guid>
-<itunes:duration>12:48</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>4 - Authorís Preface</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P04_Authors_Preface.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P04_Authors_Preface.mp3" length="5172565" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P04_Authors_Preface.mp3
-</guid>
-<itunes:duration>10:46</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>3 - Editorís Preface</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P03_Editors_Preface.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P03_Editors_Preface.mp3" length="3007954" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P03_Editors_Preface.mp3
-</guid>
-<itunes:duration>6:16</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>2 - Publisherís Foreword</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-http://hgchicago.org/wp-content/uploads/2011/09/P%26P02_Publishers_Foreword.mp3
-</link>
-<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P02_Publishers_Foreword.mp3" length="2703479" type="audio/mpeg"/>
-</link>
-<guid>
-http://hgchicago.org/wp-content/uploads/2011/09/P%26P02_Publishers_Foreword.mp3
-</guid>
-<itunes:duration>5:38</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
-
-<item>
-<title>20 - Chapter 15</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3" length="9131044" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3
-</guid>
-<itunes:duration>19:01</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
-</item>
 
 <item>
 <title>25 - Chapter 20</title>
@@ -859,17 +565,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3" length="4997010" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3" length="4997010" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3
 </guid>
 <itunes:duration>10:24</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:24:05 +0100</pubDate>
 </item>
 
 <item>
@@ -880,17 +586,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26PP25_Chapter_20.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3" length="9765297" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3" length="9765297" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3
 </guid>
 <itunes:duration>20:20</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:23:05 +0100</pubDate>
 </item>
 
 <item>
@@ -901,17 +607,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26PP24_Chapter_19.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.mp3" length="1157036" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.mp3" length="1157036" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.mp3
 </guid>
 <itunes:duration>2:24</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:22:05 +0100</pubDate>
 </item>
 
 <item>
@@ -922,17 +628,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P23_Fourth_Part_Chapter_18.
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3" length="2951100" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3" length="2951100" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3
 </guid>
 <itunes:duration>6:09</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:21:05 +0100</pubDate>
 </item>
 
 <item>
@@ -943,37 +649,38 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P22_Chapter_17.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P21_Chapter_16.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P21_Chapter_16.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P21_Chapter_16.mp3" length="1983315" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P21_Chapter_16.mp3" length="1983315" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P21_Chapter_16.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P21_Chapter_16.mp3
 </guid>
 <itunes:duration>4:08</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:20:05 +0100</pubDate>
 </item>
+
 <item>
-<title>14 - Chapter 09</title>
-<itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ ]]>
-</itunes:summary>
-<description>Henry George (Read by Bob Drake)</description>
-<link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3
-</link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3" length="7769333" type="audio/mpeg"/>
-<guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3
-</guid>
-<itunes:duration>16:11</itunes:duration>
-<author>stephensilber@gmail.com (Henry George)</author>
-<itunes:author>Henry George</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+    <title>20 - Chapter 15</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3" length="9131044" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P20_Chapter_15.mp3
+    </guid>
+    <itunes:duration>19:01</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:19:05 +0100</pubDate>
 </item>
 
 <item>
@@ -984,17 +691,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3" length="5068690" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3" length="5068690" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3
 </guid>
 <itunes:duration>10:33</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:18:05 +0100</pubDate>
 </item>
 
 <item>
@@ -1005,17 +712,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P19_Chapter_14.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3" length="4039674" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3" length="4039674" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3
 </guid>
 <itunes:duration>8:25</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:17:05 +0100</pubDate>
 </item>
 
 <item>
@@ -1026,17 +733,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P18_Chapter_13.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3" length="6744288" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3" length="6744288" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3
 </guid>
 <itunes:duration>14:03</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:16:05 +0100</pubDate>
 </item>
 
 <item>
@@ -1047,17 +754,17 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P17_Chapter_12.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3" length="5768772" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3" length="5768772" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3
 </guid>
 <itunes:duration>12:01</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:15:05 +0100</pubDate>
 </item>
 
 <item>
@@ -1068,17 +775,315 @@ https://hgchicago.org/wp-content/uploads/2011/09/P%26P16_Chapter_11.mp3
 </itunes:summary>
 <description>Henry George (Read by Bob Drake)</description>
 <link>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P15_Third_Part_Chapter_10.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P15_Third_Part_Chapter_10.mp3
 </link>
-<enclosure url="https://hgchicago.org/wp-content/uploads/2011/09/P%26P15_Third_Part_Chapter_10.mp3" length="7685136" type="audio/mpeg"/>
+<enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P15_Third_Part_Chapter_10.mp3" length="7685136" type="audio/mpeg"/>
 <guid>
-https://hgchicago.org/wp-content/uploads/2011/09/P%26P15_Third_Part_Chapter_10.mp3
+http://hgchicago.org/wp-content/uploads/2011/09/P%26P15_Third_Part_Chapter_10.mp3
 </guid>
 <itunes:duration>16:00</itunes:duration>
 <author>stephensilber@gmail.com (Henry George)</author>
 <itunes:author>Henry George</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<pubDate>Thu, 09 Nov 2017 06:35:05 +0100</pubDate>
+<pubDate>Thu, 09 Nov 2017 06:14:05 +0100</pubDate>
 </item>
+
+<item>
+    <title>14 - Chapter 09</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3" length="7769333" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P14_Chapter_09.mp3
+    </guid>
+    <itunes:duration>16:11</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:13:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>13 - Chapter 08</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P13_Chapter_08.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P13_Chapter_08.mp3" length="5593229" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P13_Chapter_08.mp3
+    </guid>
+    <itunes:duration>11:39</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:12:05 +0100</pubDate>
+</item>
+
+
+<item>
+    <title>12 - Chapter 07</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P12_Chapter_07.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P12_Chapter_07.mp3" length="11978182" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P12_Chapter_07.mp3
+    </guid>
+    <itunes:duration>24:57</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:11:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>11 - Second Part, Chapter 06</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P11_Second_Part_Chapter_06.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P11_Second_Part_Chapter_06.mp3" length="5634424" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P11_Second_Part_Chapter_06.mp3
+    </guid>
+    <itunes:duration>11:44</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:10:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>10 - Chapter 05</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P10_Chapter_05.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P10_Chapter_05.mp3" length="4783224" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P10_Chapter_05.mp3
+    </guid>
+    <itunes:duration>9:58</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:35:09 +0100</pubDate>
+</item>
+
+<item>
+    <title>9 - Chapter 04</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P09_Chapter_04.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P09_Chapter_04.mp3" length="4690646" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P09_Chapter_04.mp3
+    </guid>
+    <itunes:duration>9:46</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:08:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>8 - Chapter 03</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P08_Chapter_03.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P08_Chapter_03.mp3" length="12697699" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P08_Chapter_03.mp3
+    </guid>
+    <itunes:duration>26:27</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:07:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>7 - Chapter 02</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P07_Chapter_02.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P07_Chapter_02.mp3" length="11103394" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P07_Chapter_02.mp3
+    </guid>
+    <itunes:duration>23:08</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:06:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>6 - First Part, Chapter 01</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P06_First_Part_Chapter_01.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P06_First_Part_Chapter_01.mp3" length="8894294" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P06_First_Part_Chapter_01.mp3
+    </guid>
+    <itunes:duration>18:32</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:05:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>5 - Introduction</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P05_Introduction.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P05_Introduction.mp3" length="6149745" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P05_Introduction.mp3
+    </guid>
+    <itunes:duration>12:48</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:04:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>4 - Authorís Preface</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P04_Authors_Preface.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P04_Authors_Preface.mp3" length="5172565" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P04_Authors_Preface.mp3
+    </guid>
+    <itunes:duration>10:46</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:03:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>3 - Editorís Preface</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P03_Editors_Preface.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P03_Editors_Preface.mp3" length="3007954" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P03_Editors_Preface.mp3
+    </guid>
+    <itunes:duration>6:16</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:02:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>2 - Publisherís Foreword</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P02_Publishers_Foreword.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P02_Publishers_Foreword.mp3" length="2703479" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P02_Publishers_Foreword.mp3
+    </guid>
+    <itunes:duration>5:38</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:01:05 +0100</pubDate>
+</item>
+
+<item>
+    <title>1 - Title Page</title>
+    <itunes:subtitle>Henry George (Read by Bob Drake)</itunes:subtitle>
+    <itunes:summary>
+        <![CDATA[ ]]>
+    </itunes:summary>
+    <description>Henry George (Read by Bob Drake)</description>
+    <link>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P01_Title_Page.mp3
+    </link>
+    <enclosure url="http://hgchicago.org/wp-content/uploads/2011/09/P%26P01_Title_Page.mp3" length="382955" type="audio/mpeg"/>
+    <guid>
+        http://hgchicago.org/wp-content/uploads/2011/09/P%26P01_Title_Page.mp3
+    </guid>
+    <itunes:duration>0:48</itunes:duration>
+    <author>stephensilber@gmail.com (Henry George)</author>
+    <itunes:author>Henry George</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 09 Nov 2017 06:00:05 +0100</pubDate>
+</item>
+
+
+
 </channel>
 </rss>
