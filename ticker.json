@@ -1,0 +1,24 @@
+{
+    "tickers": [
+        {
+            "symbol": "MSFT",
+            "price": 2881.19,
+            "price_delta": 32.77
+        },
+        {
+            "symbol": "FB",
+            "price": 84.32,
+            "price_delta": -2.43
+        },
+        {
+            "symbol": "AAPL",
+            "price": 643.34,
+            "price_delta": 12.32
+        },
+        {
+            "symbol": "AMZN",
+            "price": 2012.23,
+            "price_delta": -23.23
+        }
+    ]
+}
