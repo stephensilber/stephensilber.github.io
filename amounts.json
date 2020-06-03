@@ -3,5 +3,7 @@
     "total_saved_rendered": "$30,452,369",
     "total_traded": 280411258100,
     "total_traded_rendered": "$280,411,258,100",
-    "market_impact_percentage": 85
+    "market_impact_percentage": 85,
+    "nbbo_quote_improvement": 40,
+    "us_market_tightest_quote": 56
 }
