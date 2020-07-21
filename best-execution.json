@@ -1,0 +1,21 @@
+{
+  "tickers": [
+    {
+      "symbol": "MSFT",
+      "value": 87000
+     },
+         {
+      "symbol": "AAPL",
+      "value": 98000
+     },
+         {
+      "symbol": "AMZN",
+      "value": 43000
+     },
+         {
+      "symbol": "NFLX",
+      "value": 15000
+     },
+     
+  ]
+}
