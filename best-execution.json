@@ -1,20 +1,28 @@
 {
   "tickers": [
     {
-      "symbol": "MSFT",
-      "value": 87000
-     },
-     {
-      "symbol": "AAPL",
-      "value": 98000
-     },
-     {
+      "symbol": "GOOG",
+      "value": 656009
+    },
+    {
       "symbol": "AMZN",
-      "value": 43000
-     },
-     {
+      "value": 461624
+    },
+    {
+      "symbol": "TSLA",
+      "value": 325221
+    },
+    {
+      "symbol": "AAPL",
+      "value": 72784
+    },
+    {
       "symbol": "NFLX",
-      "value": 15000
-     }
+      "value": 66724
+    },
+    {
+      "symbol": "MSFT",
+      "value": 54607
+    }
   ]
 }
