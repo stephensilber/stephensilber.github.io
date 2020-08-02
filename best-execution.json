@@ -1,28 +1,4 @@
 {
-  "tickers": [
-    {
-      "symbol": "GOOG",
-      "value": 656009
-    },
-    {
-      "symbol": "AMZN",
-      "value": 461624
-    },
-    {
-      "symbol": "TSLA",
-      "value": 325221
-    },
-    {
-      "symbol": "AAPL",
-      "value": 72784
-    },
-    {
-      "symbol": "NFLX",
-      "value": 66724
-    },
-    {
-      "symbol": "MSFT",
-      "value": 54607
-    }
-  ]
+  "percentage_of_quotes": 35,
+  "savings_to_investors": 1700000000
 }
